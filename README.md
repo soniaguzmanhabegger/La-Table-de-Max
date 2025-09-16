@@ -31,6 +31,9 @@ This repository contains all the relevant files and documentation for the projec
 Click the link below to view the full project documentation in PDF format:
 
 👉 [**Open Project PDF**](./assets/images/Restaurant chain - La Table de Max.pdf)
+[📄 Open PDF](https://raw.githubusercontent.com/soniaguzmanhabegger/La-Table-de-Max/main/assets/images/Restaurant chain - La Table de Max.pdf)
+
+
 
 ---
 
