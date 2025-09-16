@@ -15,7 +15,10 @@ This report is based on fictional data generated in ChatGPT. The command was to 
 
 This report was created in Power BI as an infographic to convey the insights directly into the report, in structured sections, and with customer experience in sight.
 
-    <a href="https://github.com/soniaguzmanhabegger/La-Table-de-Max/edit/main/README.md" target="_blank" class="btn">Documentation</a>
+<img src="assets/images/La Table de Max screenshot.png" alt="Project One Preview">
+<img src="assets/images/Restaurant chain - La Table de Max.pdf" alt="Project One Preview">
+<a href="assets/images/Restaurant chain - La Table de Max.pdf" download title="Download CV"><i class="fas fa-file-arrow-down"></i></a>
+<img src="assets/images/project-placeholder-2.jpg" alt="Project Two Preview">
 
 
 ## 🛠️ Skills
@@ -26,6 +29,3 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design.
 - **Reporting**: Visualizations adapted to dataset and analysis, interactivity, layout design in Power Point, storytelling
-
-
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
