@@ -19,6 +19,9 @@ This report was created in Power BI as an infographic to convey the insights dir
 <img src="assets/images/Restaurant chain - La Table de Max.pdf" alt="Project One Preview">
 <a href="assets/images/Restaurant chain - La Table de Max.pdf" download title="Download CV"><i class="fas fa-file-arrow-down"></i></a>
 <img src="assets/images/project-placeholder-2.jpg" alt="Project Two Preview">
+[Open PDF Report](./Restaurant chain - La Table de Max.pdf)
+
+
 
 
 ## 🛠️ Skills
