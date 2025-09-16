@@ -22,6 +22,24 @@ This report was created in Power BI as an infographic to convey the insights dir
 [Open PDF Report](./Restaurant chain - La Table de Max.pdf)
 
 
+# 📁 Project Title
+
+This repository contains all the relevant files and documentation for the project.
+
+## 📄 Documentation
+
+Click the link below to view the full project documentation in PDF format:
+
+👉 [**Open Project PDF**](./images/Restaurant chain - La Table de Max.pdf)
+
+---
+
+## 🛠️ Getting Started
+
+Instructions to set up and run the project...
+
+## 📦 Folder Structure
+
 
 
 ## 🛠️ Skills
