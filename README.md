@@ -10,7 +10,7 @@ This report is designed to demonstrate skills in:
 - Transforming complex data into actionable insights 
 
 
-### Project Title One
+### Background
 This report is based on fictional data generated in ChatGPT. The command was to generate 7 months data of sales and menu items for 3 restaurants in France. Since I want to analyze sales performance by time of day and day of the week, transaction dates were prompted as well.
 
 This report was created in Power BI as an infographic to convey the insights directly into the report, in structured sections, and with customer experience in sight.
@@ -22,27 +22,8 @@ This report was created in Power BI as an infographic to convey the insights dir
 [Open PDF Report](./Restaurant chain - La Table de Max.pdf)
 
 
-# 📁 Project Title
 
-This repository contains all the relevant files and documentation for the project.
-
-## 📄 Documentation
-
-Click the link below to view the full project documentation in PDF format:
-
-👉 [**Open Project PDF**](./assets/images/Restaurant chain - La Table de Max.pdf)
-[📄 Open PDF](https://raw.githubusercontent.com/soniaguzmanhabegger/La-Table-de-Max/main/assets/images/Restaurant chain - La Table de Max.pdf)
-
-
-
----
-
-## 🛠️ Getting Started
-
-Instructions to set up and run the project...
-
-## 📦 Folder Structure
-
+👉 [**Open Project PDF**](./Maven_Toys.pdf)
 
 
 ## 🛠️ Skills
