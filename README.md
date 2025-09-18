@@ -21,6 +21,7 @@ This report was created in Power BI as an infographic to convey the insights dir
 <img src="assets/images/project-placeholder-2.jpg" alt="Project Two Preview">
 [Open PDF Report](./Restaurant chain - La Table de Max.pdf)
 
+[![Project Preview](./images/preview.png)](./pdf/Project.pdf)
 
 
 👉 [**Open Project PDF**](./Maven_Toys.pdf)
