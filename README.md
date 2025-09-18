@@ -19,4 +19,4 @@ The idea was to create an infographic to convey insights directly into the repor
 
 [![Project Preview](./La_Table_de_Max.png)](./La_Table_de_Max.pdf)
 
-👉 [**Open full infographic in PDF**](./La_Table_de_Max.pdf)
+👉 [**Read insights in this full infographic version in PDF**](./La_Table_de_Max.pdf)
